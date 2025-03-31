@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ig5byeDPQ4HzSx9Uz/bdPsE72UPXTeCtVyrPKy4ysvo=",
+  "Source": "Necli.WebApi",
+  "BasePath": "_content/Necli.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
